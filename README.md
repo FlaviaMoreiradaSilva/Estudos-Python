@@ -1,9 +1,6 @@
 # Estudos-Python
 
 🐣 Iniciante
-Olá, mundo!
-
-Escreva um programa que imprima “Olá, mundo!” na tela.
 
 Calculadora simples
 
